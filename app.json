@@ -26,13 +26,21 @@
         "backgroundColor": "#060a14"
       },
       "package": "com.mikemeh.bwtmat",
-      "permissions": ["INTERNET", "ACCESS_NETWORK_STATE"]
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
       "expo-splash-screen"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1d3c1774-1f77-44ea-bb2b-889139b80ffa"
+      }
+    }
   }
 }
