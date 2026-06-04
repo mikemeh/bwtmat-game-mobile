@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
-    "expo": "~56.0.8",
-    "expo-splash-screen": "~0.30.8",
-    "expo-status-bar": "~56.0.4",
-    "react": "19.2.3",
-    "react-native": "0.85.3",
-    "react-native-webview": "~13.6.0"
+    "expo": "51.0.28",
+    "expo-splash-screen": "0.27.5",
+    "expo-status-bar": "1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.1",
+    "react-native-webview": "13.6.6"
   },
   "devDependencies": {
-    "@types/react": "~19.2.2",
-    "typescript": "~6.0.3"
+    "@types/react": "18.2.48",
+    "typescript": "5.3.3"
   },
   "scripts": {
     "start": "expo start",
