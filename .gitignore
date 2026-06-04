@@ -9,4 +9,5 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-# android/ and ios/ are managed by Expo — do not ignore for EAS builds
+android/
+ios/
